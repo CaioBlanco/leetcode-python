@@ -54,4 +54,4 @@ python easy/two_sum.py
 
 ## 👤 Autor
 
-Feito por **[Seu Nome]** — [LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+Feito por **Caio Blanco Schaidhauer** — [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/caio-blanco-501267253/)) · [GitHub]([https://github.com/seu-usuario](https://github.com/CaioBlanco))
